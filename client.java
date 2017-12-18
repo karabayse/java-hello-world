@@ -5,3 +5,14 @@ public class HelloWorld {
 
 	}
 }
+
+
+public class Variables {
+	public static void main(String[] args) {
+
+		int myNumber = 3;
+		boolean isFun = true;
+		char movieRating = 'A';
+
+	}
+}
